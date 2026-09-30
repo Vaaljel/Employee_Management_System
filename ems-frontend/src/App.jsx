@@ -1,11 +1,12 @@
 
 import './App.css'
+import HelloWord from './HelloWord'
 
 function App() {
 
   return (
     <>
-        <h1>Hello World</h1>
+        <HelloWord/>
     </>
   )
 }
